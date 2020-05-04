@@ -29,7 +29,7 @@
 
 <p align="center">
     <img alt="Login-Page" title="Login-Page" src="src/assets/print7Testes.png" width="320px" />
-  <img alt="Login-Page" title="Login-Page" src="src/assets/result.png" width="290px" />
+  <img alt="Login-Page" title="Login-Page" src="src/assets/result.png" width="300px" />
  </p>
 
 
