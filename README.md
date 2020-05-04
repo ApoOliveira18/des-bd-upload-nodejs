@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	:heavy_check_mark: 🚀 Desafio 6- Banco de Dados com Typeorm e envio de arquivos com Multer :heavy_check_mark:
+	:heavy_check_mark: 🚀 Challenge 6- Database with Typeorm and sending files with Multer :heavy_check_mark:
 </h4>
 
 <p align="center">
