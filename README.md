@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src="https://github.com/ApoOliveira18/AppsFullStack/blob/master/frontend/src/assets/logo.svg" width="250px" />
+    <img alt="BeTheHero" title="#BeTheHero" src="src/assets/lg.png" width="250px" />
 </h1>
 
 <h4 align="center"> 
-	:heavy_check_mark: 🚀 Semana OmniStack 11.0 :heavy_check_mark:
+	:heavy_check_mark: 🚀 Desafio 06 - Banco de Dados com import pelo Muter :heavy_check_mark:
 </h4>
 
 <p align="center">
