@@ -50,21 +50,14 @@ From your command line:
 ### Install API
 ```bash
 # Clone this repository
-$ git clone https://github.com/ApoOliveira18/AppsFullStack.git
+$ git clone https://github.com/ApoOliveira18/des-bd-upload-nodejs.git
 # Go into the repository
-$ cd SemanaOmnistack11/
+$ cd des-bd-upload-nodejs/
 
-# Install dependencies for each subdirectories (frontend/backend/mobile)
-$ yarn install
+# Install dependencies for directories
 
 # Run Migrates
-$ yarn knex migrate:latest 
-
-# Run Seeds
-$ yarn seed
-
-# Run the API
-$ yarn dev
+$ yarn typeorm migrate:run
 
 # Run tests
 $ yarn test
