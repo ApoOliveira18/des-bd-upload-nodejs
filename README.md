@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	:heavy_check_mark: 🚀 Desafio 06 - Banco de Dados com import pelo Muter :heavy_check_mark:
+	:heavy_check_mark: 🚀 Desafio 6- Banco de Dados com Typeorm e envio de arquivos com Multer :heavy_check_mark:
 </h4>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 💻 Project
 
-Be The Hero is a project that aims to connect people who are willing to help ONGs.
+<p>Nesse desafio, você deve continuar desenvolvendo a aplicação de gestão de transações, treinando o que você aprendeu até agora no Node.js junto ao TypeScript, mas dessa vez incluindo o uso de banco de dados com o TypeORM e envio de arquivos com o Multer!</p>
 
 <h1 align="center">
     <img alt="Login-Page" title="Login-Page" src="https://github.com/ApoOliveira18/AppsFullStack/blob/master/frontend/src/assets/heroes.png" width="500px" />
