@@ -19,9 +19,13 @@
 
 <p>Nesse desafio, você deve continuar desenvolvendo a aplicação de gestão de transações, treinando o que você aprendeu até agora no Node.js junto ao TypeScript, mas dessa vez incluindo o uso de banco de dados com o TypeORM e envio de arquivos com o Multer!</p>
 
-<h1 align="center">
-    <img alt="Login-Page" title="Login-Page" src="src/assets/dbeaver.png" width="500px" />
-</h1>
+<p align="center">
+    <img alt="Login-Page" title="Login-Page" src="src/assets/dbeaver.png" width="600px" />
+</p>
+
+<p align="center">
+    <img alt="Login-Page" title="Login-Page" src="src/assets/inso.png" width="600px" />
+</p>
 
 
 ## :rocket: Technologies
